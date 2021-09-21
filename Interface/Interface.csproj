@@ -7,7 +7,7 @@
     <ProjectGuid>{1066AB31-F44D-416D-8A9B-D8FC4E02889E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Atividade_2_POO_II___UNIP</RootNamespace>
-    <AssemblyName>Atividade 2 POO II - UNIP</AssemblyName>
+    <AssemblyName>Atividade_2_POO_II___UNIP</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
